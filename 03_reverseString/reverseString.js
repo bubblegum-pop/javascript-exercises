@@ -9,7 +9,5 @@ const reverseString = function(string) {
     return result;
 };
 
-console.log(reverseString("batman"));
-
 // Do not edit below this line
 module.exports = reverseString;
